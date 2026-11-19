@@ -36,6 +36,19 @@ the first trading day of 2027, **Monday, January 4**, at the 9:30am opening bell
 **Ticker TBA · 2027 target**. When OpenAI announces it, the app's settings take the real date, ticker and exchange
 ([how](https://github.com/findastra/ai-ipo-countdown/blob/main/openai-ipo-countdown/README.md#the-date)).
 
+## The Field Guide
+
+Astra's beginner's guide to the OpenAI IPO: what an IPO is, how the lottery works, the brokers, where OpenAI's IPO
+stands, an example $25K plan and the next steps.
+
+<p align="center"><a href="https://findastra.github.io/openai-ipo/"><img src="guide/preview.png" alt="OpenAI IPO: The Beginner's Field Guide" width="648"></a></p>
+
+- [Read the guide online](https://findastra.github.io/openai-ipo/)
+- [Download the one-page PDF](guide/OpenAI_IPO_Field_Guide.pdf)
+
+Not financial advice. OpenAI has not set a date, ticker or price; the guide's prices are examples until the official
+prospectus.
+
 ## Developer Notes
 
 1. **Where the code is:** the app is built and kept in
